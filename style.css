@@ -1,3 +1,13 @@
 h1{
     color: rgb(214, 29, 29);
 }
+/* style table */
+th,td{
+    border: 2px solid lightblue;
+    padding: 2% 10px;
+    margin: 0 5%;
+    text-align: center;
+}
+table{
+    border: 2px solid lightslategray;
+}
